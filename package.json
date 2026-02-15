@@ -1,6 +1,7 @@
 {
   "name": "pettyai",
   "version": "0.1.0",
+   "type": "module",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -15,8 +16,8 @@
     "next": "16.1.6",
     "next-auth": "^4.24.13",
     "react": "19.2.3",
-    "react-dom": "19.2.3",
-    "type": "module"
+    "react-dom": "19.2.3"
+   
   },
   "devDependencies": {
     "autoprefixer": "^10.4.24",
